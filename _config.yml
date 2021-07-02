@@ -1,6 +1,7 @@
-title: Minimal theme
+title: Arif's Blog
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: A collection of technical blogs and notes.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+logo: ./arif.jpg
