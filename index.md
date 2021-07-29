@@ -14,7 +14,10 @@ I have seventeen years of experience in IT, Telecom and Cloud Computing Industri
 
 ### Blog Articles
 
-- [CKAD Exam Tips](https://arifhossen.me/kubernetes-ckad-exam-tips/): Tips for the kubernestes CKAD exam.
+- [CKAD Exam Tips](https://github.com/arif332/k8s-tutorial/blob/main/certification-exam/2021-02-22-kubernetes-ckad-exam-tips.md): Tips for the kubernestes CKAD exam.
+  
+- [Kubernetes Cluster Installation using Kubeadm](https://github.com/arif332/k8s-tutorial/blob/main/installation/kubernetes-installation.md): This document provide procedure to install a kubernetes cluster using kubeadm.  
+  
 - [Kubernetes Cluster Hard Way Installation Procedure](https://github.com/arif332/KBs.Pub/blob/master/kubernetes/kubernetes_install_hard_way/kubernetes_install_hard_way.md): This doc guide you to install kubernetes hardway for better understanding and practice. 
 
 
