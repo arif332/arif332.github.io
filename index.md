@@ -6,6 +6,7 @@ I have seventeen years of experience in IT, Telecom and Cloud Computing Industri
 ### Professional Certifications
 
 - [Red Hat Certified Professional Portfolio](https://www.redhat.com/rhtapps/certification/verify/?certId=180-088-585)
+- [Certified Kubernetes Security Specialist (CKS)](https://www.credly.com/badges/4200f01a-230e-49ab-bdfa-653e80f6f4b1)
 - [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/ba4b9823-3858-47af-90c6-58ef604d9786)
 - [Certified Kubernetes Application Developer (CKAD)](https://www.credly.com/badges/ba4b9823-3858-47af-90c6-58ef604d9786)
 - [VMware Certified Professional 6.5 - Data Center Virtualization](https://www.credly.com/badges/3b6f4641-8105-400d-a6bb-23bc2e81c520)
