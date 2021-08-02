@@ -15,6 +15,8 @@ I have seventeen years of experience in IT, Telecom and Cloud Computing Industri
 
 ### Blog Articles
 
+- [Certified Kubernetes Security Specialist (CKS) Exam Preparation Tips](https://github.com/arif332/k8s-tutorial/blob/main/certification-exam/kubernetes-cks-exam-certification-tips.md): This document briefly shared the exam preparation tips for Kubernetes CKS.
+  
 - [CKAD Exam Tips](https://github.com/arif332/k8s-tutorial/blob/main/certification-exam/2021-02-22-kubernetes-ckad-exam-tips.md): Tips for the kubernestes CKAD exam.
   
 - [Kubernetes Cluster Installation using Kubeadm](https://github.com/arif332/k8s-tutorial/blob/main/installation/kubernetes-installation.md): This document provide procedure to install a kubernetes cluster using kubeadm.  
