@@ -15,7 +15,7 @@ I have seventeen years of experience in IT, Telecom and Cloud Computing Industri
 
 ### Blog Articles
 
-- [Certified Kubernetes Security Specialist (CKS) Exam Preparation Tips](https://arif332.github.io/blog/kubernetes/certification/cloud%20native/2021/08/02/kubernetes-cks-exam-certification-tips.html): This document briefly shared the exam preparation tips for Kubernetes CKS.
+- [Certified Kubernetes Security Specialist (CKS) Exam Preparation Tips](https://arif332.github.io/blog/kubernetes/certification/security/cloud%20native/2021/08/02/kubernetes-cks-exam-certification-tips.html): This document briefly shared the exam preparation tips for Kubernetes CKS.
   
 - [CKAD Exam Tips](https://arif332.github.io/blog/kubernetes/certification/cloud%20native/2021/02/22/kubernetes-ckad-exam-tips.html): Tips for the kubernestes CKAD exam.
   
