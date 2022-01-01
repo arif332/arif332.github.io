@@ -5,6 +5,9 @@ I have seventeen years of experience in IT, Telecom and Cloud Computing Industri
 
 ### Professional Certifications
 
+- [Red Hat Certified Architect in Infrastructure (RHCA)](https://rhtapps.redhat.com/certifications/badge/verify/JYNSKXP6VDQ526LODF2FE325REAEQU3CUPSQX2KSDXT6RW46LQ3T4V2LT2DQFPHMZNIKSLKTIWLQQ4U5NQYTCNA62RUWOCM34WWBUYQ=)
+- [Red Hat Certified Specialist in Containers and Kubernetes](https://rhtapps.redhat.com/certifications/badge/verify/JYNSKXP6VDQ526LODF2FE325REAEQU3CUPSQX2KSDXT6RW46LQ33TZNCC5VGOAYPFY7HVVIGB5XKUTI5W6QLZX6UMV3D6ILAY7YA4GY=)
+- [Red Hat Certified System Administrator in Red Hat OpenStack](https://rhtapps.redhat.com/certifications/badge/verify/JYNSKXP6VDQ526LODF2FE325REAEQU3CUPSQX2KSDXT6RW46LQ3YBRY5HRN67XMD6X5VFP7ULSUKWW2HMIDYOMU6FAH2SEJXEIJCF5Y=)
 - [Red Hat Certified Professional Portfolio](https://www.redhat.com/rhtapps/certification/verify/?certId=180-088-585)
 - [Certified Kubernetes Security Specialist (CKS)](https://www.credly.com/badges/4200f01a-230e-49ab-bdfa-653e80f6f4b1)
 - [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/ba4b9823-3858-47af-90c6-58ef604d9786)
