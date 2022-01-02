@@ -9,13 +9,13 @@ I have seventeen years of experience in IT, Telecom and Cloud Computing Industri
   
 
 ### Professional Certifications in Red Hat
-- [Red Hat Certified Architect (RHCA)](https://rhtapps.redhat.com/certifications/badge/verify/JYNSKXP6VDQ526LODF2FE325REAEQU3CUPSQX2KSDXT6RW46LQ3T4V2LT2DQFPHMZNIKSLKTIWLQQ4U5NQYTCNA62RUWOCM34WWBUYQ=)
+- Red Hat Certified Architect (RHCA)
 - [Red Hat Certified Engineer (RHCE)](https://rhtapps.redhat.com/certifications/badge/verify/JYNSKXP6VDQ526LODF2FE325REAEQU3CUPSQX2KSDXT6RW46LQ3XCZJWRJNV7ILTXVE4I6VB7OTCG4U5NQYTCNA62RUWOCM34WWBUYQ=)
 - [Red Hat Certified Specialist in Containers and Kubernetes](https://rhtapps.redhat.com/certifications/badge/verify/JYNSKXP6VDQ526LODF2FE325REAEQU3CUPSQX2KSDXT6RW46LQ33TZNCC5VGOAYPFY7HVVIGB5XKUTI5W6QLZX6UMV3D6ILAY7YA4GY=)
 - [Red Hat Certified System Administrator in Red Hat OpenStack](https://rhtapps.redhat.com/certifications/badge/verify/JYNSKXP6VDQ526LODF2FE325REAEQU3CUPSQX2KSDXT6RW46LQ3YBRY5HRN67XMD6X5VFP7ULSUKWW2HMIDYOMU6FAH2SEJXEIJCF5Y=)
-- [Red Hat Certified Specialist in Virtualization](https://rhtapps.redhat.com/certifications/badge/verify/JYNSKXP6VDQ526LODF2FE325REAEQU3CUPSQX2KSDXT6RW46LQ3Z2BMIDE5P5PNXRPSQ3UPCCAUGI4U5NQYTCNA62RUWOCM34WWBUYQ=)
-- [Red Hat Certified Specialist in Server Security and Hardening](https://rhtapps.redhat.com/certifications/badge/verify/JYNSKXP6VDQ526LODF2FE325REAEQU3CUPSQX2KSDXT6RW46LQ36DPRVHCJVG2AOJCL5NRCVMUM4XZ5TTDDSEZVX4X4N2TYKTXCOK7Q=)
-- [Red Hat Certified Specialist in Gluster Storage Administration](https://rhtapps.redhat.com/certifications/badge/verify/JYNSKXP6VDQ526LODF2FE325REAEQU3CUPSQX2KSDXT6RW46LQ3VXVV7JUSLTW3QRZT6NGILQOXOW7XTY42LC2XUG4NJHVWGJN4Z6V3STVWDCMJUD3KGSZYJTPS2YGTCOKOWYMJRGQPNI2LHBGN6LLA2MI======)
+- Red Hat Certified Specialist in Virtualization
+- Red Hat Certified Specialist in Server Security and Hardening
+- Red Hat Certified Specialist in Gluster Storage Administration
 - [Red Hat Certified System Administrator](https://rhtapps.redhat.com/certifications/badge/verify/JYNSKXP6VDQ526LODF2FE325REAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ=)
 - [Red Hat Certified Professional Portfolio](https://www.redhat.com/rhtapps/certification/verify/?certId=180-088-585)
 
